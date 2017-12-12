@@ -9,8 +9,7 @@ fetch('https://api.github.com/repos/nestjs/nest/contributors')
         if (contributors) {
             // Starting from 1 because we already gave Kamil credit
             for (var i = 1; i < res.length; i++) {
-
-                contributors.innerHTML += '<a href="' + res[i].html_url + '">' + res[i].login + '</a>&nbsp;&nbsp;';
+                contributors.innerHTML += '<a href="' + res[i].html_url + '">' + res[i].login + '</a> ';
             }
         }
     })
