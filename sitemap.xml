@@ -4,9 +4,31 @@
     
     <url>
      <loc>https://docs.nestjs.com/</loc>
-     <lastmod>2017-12-11</lastmod>
+     <lastmod>2017-12-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
+    
+
+    
+        
+    <url>
+     <loc>https://docs.nestjs.com/guide/introduction/</loc>
+     <lastmod>2017-12-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.nestjs.com/guide/controllers/</loc>
+     <lastmod>2017-12-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://docs.nestjs.com/guide/components/</loc>
+     <lastmod>2017-12-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
